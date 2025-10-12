@@ -1,26 +1,135 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>我的博客</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on 我的博客</description>
-    <generator>Hugo -- 0.151.0</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Sun, 12 Oct 2025 20:40:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>术数整理与博览</title>
-      <link>http://localhost:1313/posts/first-article/</link>
-      <pubDate>Sun, 12 Oct 2025 20:40:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/first-article/</guid>
-      <description>&lt;h2 id=&#34;术数整理与博览&#34;&gt;术数整理与博览&lt;/h2&gt;
-&lt;h3 id=&#34;一术数是什么&#34;&gt;一、“术数”是什么&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>云兮的博客</title><link>https://www.yunxi.abrdns.com/</link><description>Recent content on 云兮的博客</description><generator>Hugo -- 0.151.0</generator><language>zh-cn</language><lastBuildDate>Sun, 12 Oct 2025 20:40:00 +0900</lastBuildDate><atom:link href="https://www.yunxi.abrdns.com/index.xml" rel="self" type="application/rss+xml"/><item><title>术数整理与博览</title><link>https://www.yunxi.abrdns.com/posts/first-article/</link><pubDate>Sun, 12 Oct 2025 20:40:00 +0900</pubDate><guid>https://www.yunxi.abrdns.com/posts/first-article/</guid><description>&lt;h2 id="术数概览"&gt;术数概览&lt;/h2&gt;
+&lt;h3 id="一术数是什么"&gt;一、“术数”是什么&lt;/h3&gt;
 &lt;p&gt;“术数”是一种占卜方法，用于预测和辅助理解易理。&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;基础与特征：&lt;/strong&gt; 特征是以“数”行方术；基础是阴阳五行、天干地支、河图洛书等。
-&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;基础与特征：&lt;/strong&gt; 特征是以“数”行方术；基础是阴阳五行、天干地支、河图洛书等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“术”与“数”：&lt;/strong&gt; “术”指方术；“数”指气数、数理（阴阳五行、太极八卦的数理）。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;（文章正文继续）&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;hr&gt;
+&lt;h3 id="二术数博览"&gt;二、术数博览&lt;/h3&gt;
+&lt;h4 id="1东方玄学体系"&gt;1、东方玄学体系&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;命理（通过出生时间对人一生命运进行预测）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;四柱/八字&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;核心定义：&lt;/strong&gt; 一个人出生时的干支历日期，年、月、日、时共四柱干支，合共八个字。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;推断机制：&lt;/strong&gt; 以十神及宫位来推断人的命运。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;起卦方式：&lt;/strong&gt; 以&lt;strong&gt;出生年月日时&lt;/strong&gt;排定八字命盘。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;紫微斗数&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;系统：&lt;/strong&gt; 古代印度占星学与中国阴阳五行的结合。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;起卦方式：&lt;/strong&gt; 以&lt;strong&gt;出生年月日时&lt;/strong&gt;定盘，排布十二宫和星曜。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;卜卦（依托伏羲八卦和文王六十四卦进行占算推演的卜术）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;六爻（金钱卦）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;定义：&lt;/strong&gt; 由大衍筮法发展而来，因“以钱代蓍”，也称“金钱卦”。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;推断：&lt;/strong&gt; 配以卦爻纳甲、动变，通过当日干支、六亲及六神推断事物发展。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;起卦方式：&lt;/strong&gt; &lt;strong&gt;摇晃三枚铜钱六次&lt;/strong&gt;成卦，推荐使用模拟起卦。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;梅花易数（梅花心易）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;创始人：&lt;/strong&gt; 北宋&lt;strong&gt;邵雍&lt;/strong&gt;（邵康节先生）所创，由《皇极经世书》简易而来。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;特点：&lt;/strong&gt; 卦式简单，即排即断，灵活多变。占算很靠人的“灵感”。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;起卦方式：&lt;/strong&gt; 随意&lt;strong&gt;报数、时间、字数、物件数量&lt;/strong&gt;等外应起卦。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;奇门遁甲&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;本质：&lt;/strong&gt; 一门高等的&lt;strong&gt;天文物理学&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;构成：&lt;/strong&gt; 由“三奇”（乙、丙、丁）、“八门”（开、休、生、伤、杜、景、惊、死）、“遁甲”组成。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;推断机制：&lt;/strong&gt; 将一切成败归纳为五大因素：天时、地利、人和、神助、格局组合。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;起卦方式：&lt;/strong&gt; 推荐使用当下时间起卦。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;六壬（大六壬）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;定义：&lt;/strong&gt; 中国古代宫廷占术，以日、月、星、辰变化为准则。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;推断：&lt;/strong&gt; 推导包括四课和三传。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;起卦方式：&lt;/strong&gt; 推荐使用当下时间起卦。月将选取推荐默认的中气换将。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;小六壬&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;特点：&lt;/strong&gt; 一种快速、简便的掐指速算占卜法。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;推断：&lt;/strong&gt; 以六个掌上宫位（大安、留连、速喜、赤口、小吉、空亡）进行推算。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;起卦方式：&lt;/strong&gt; 推荐使用当下日时起卦&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="2西方玄学体系"&gt;2、西方玄学体系&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;占星（Astrology）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;定义：&lt;/strong&gt; 一种根据天体运行和相对位置来判断或预测人间事务和命运的术数。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;推断：&lt;/strong&gt; 主要以&lt;strong&gt;行星、星座、宫位、相位&lt;/strong&gt;四大要素进行推断。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;起卦方式：&lt;/strong&gt; 以&lt;strong&gt;出生时间、地点&lt;/strong&gt;绘制&lt;strong&gt;本命盘，或以&lt;/strong&gt;问事时间&lt;strong&gt;绘制&lt;/strong&gt;卜卦盘。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;塔罗（Tarot）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;定义：&lt;/strong&gt; 一种使用塔罗牌（通常78张）进行占卜预测的工具。&lt;/p&gt;</description></item></channel></rss>
