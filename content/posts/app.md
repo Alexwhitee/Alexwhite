@@ -13,51 +13,17 @@ draft: false
 
 ## 📱 可下载的 App
 
-<div class="app-section">
 
-  <h2>APP 下载</h2>
-  <div class="links-container">
-  <!-- 明心排盘APP 链接 -->
-  <a href="https://www.yunxi.abrdns.com/app/明心排盘.apk"
-     class="link-item"
-     target="_blank"
-     rel="noopener noreferrer">
-     📲 明心排盘 APP（本站内容）
-  </a>
 
-  <!-- 明心占星APP 链接 -->
-  <a href="https://www.yunxi.abrdns.com/app/明心占星.apk"
-     class="link-item"
-     target="_blank"
-     rel="noopener noreferrer">
-     🌠 明心占星 APP
-  </a>
-
-  <!-- 明心紫微斗数APP 链接 -->
-  <a href="https://www.yunxi.abrdns.com/app/明心紫微斗数.apk"
-     class="link-item"
-     target="_blank"
-     rel="noopener noreferrer">
-     ⭐ 明心紫微斗数 APP
-  </a>
-  </div>
-
-  <p class="backup-link">
-    如下载速度太慢，请使用百度网盘下载：
-    <a href="https://pan.baidu.com/s/1qB4SWwICGz-pewb0MRDv1Q?pwd=qwer"
-       target="_blank"
-       rel="noopener noreferrer">
-       百度网盘链接（提取码：qwer）
-    </a>
-  </p>
-
+请使用百度网盘下载：
+    https://pan.baidu.com/s/1qB4SWwICGz-pewb0MRDv1Q?pwd=qwer"
 
 
 也可用蓝奏云网盘下载 https://wwaaa.lanzouq.com/b016kbaeqf 
 
 密码：qwer
 
-</div>
+
 
 ---
 
