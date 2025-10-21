@@ -1,6 +1,6 @@
 baseURL = "https://www.yunxi.abrdns.com/"  # 改成你的 Cloudflare Pages 自定义域名
 languageCode = "zh-cn"
-title = "云兮的博客"
+title = "明心的博客"
 theme = "PaperMod"
 
 # URL 配置，保证文章和页面能正确访问
@@ -12,7 +12,7 @@ canonifyURLs = true    # 自动规范 URL
 defaultTheme = "auto"
 
 [params.homeInfoParams]
-Title = "你好，我是云兮"
+Title = "你好，我是明心"
 Content = "欢迎来到我的博客主页：个人 / 博客 / 教程"
 
 [[menu.main]]
